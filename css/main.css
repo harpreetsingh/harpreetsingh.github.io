@@ -3,28 +3,32 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Andale', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
-    color: #999;
+    color: #995400;
+    
 }
+
 a:hover {
     text-decoration: underline;
 }
 h1 {
    font-size: medium;
-   font-family:'Helvetica', 'Arial', 'Sans-Serif';
+   font-family:'Andale', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: small;
+    font-size: medium;
     line-height: 1.4em;
     color: #333;
 }
@@ -35,9 +39,34 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: medium;
 }
 
 ul.posts li {
     list-style: none;
 }
+
+img.myimage {
+    width:40px;
+    height:40px;
+}
+
+h1.myimage {
+    color: DarkOrange;
+    font-size: 30px;
+    font-weight: bold;
+    valign:bottom;
+}
+
+h1.blog{
+    color: #C70039;
+    font-size: 20px;
+    font-weight: bold;
+    valign:bottom;
+}
+p.intro {
+    font-family: 'Andale', 'Arial';
+    font: 'Andale';
+    align: center;
+}
+
