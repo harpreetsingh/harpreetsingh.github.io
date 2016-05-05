@@ -7,6 +7,7 @@ tags: jenkins
 ---
 
 ![continuos software delivery](https://media.licdn.com/mpr/mpr/jc/AAEAAQAAAAAAAAhYAAAAJDU5ZjVkYWI1LTUxZjUtNDA4My04M2M4LTBjMmFmNjE4ZDJlYw.png)
+
 Delivering software continuously, in other words "keeping software in
 an always shippable state" is a challenge for companies. Recently
 released Jenkins 2.0, is focussed on solving this problem through
@@ -43,7 +44,6 @@ of software delivery. Continuous Delivery upends that case to help
 teams deliver good software, faster and cheaper .
 
 # Why Jenkins?
-
 
 Software goes through various phases (build, test, deploy) and
 interacts with a multitude of tools (junit, sonar, nexus etc) on its
