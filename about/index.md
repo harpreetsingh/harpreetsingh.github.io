@@ -7,7 +7,7 @@ title: Harpreet Singh in 2 minutes
 
 Short Bio
 ----
-Harpreet Singh is the vice-president of product management at CloudBees. In addition to driving the product strategy and roadmap at CloudBees, he has been a driving force in key Jenkins areas such as Continuous Delivery Pipelines, Docker and now the next gen Jenkins UX (Blue Ocean). He owns the evangelism charter for Jenkins at CloudBees and was instrumental in setting up the first Jenkins User Conference and the Jenkins Area Meetups (JAM) program which has spread to 30 locations with over 4000 participants.
+Harpreet Singh is the vice-president of product management at CloudBees. In addition to driving the product strategy and roadmap at CloudBees, he has been a driving force in key Jenkins areas such as Continuous Delivery Pipelines, Docker and now the next gen Jenkins UX (Blue Ocean). He co-owns the evangelism charter for Jenkins at CloudBees and was instrumental in setting up the first Jenkins User Conference and the Jenkins Area Meetups (JAM) program which has spread to 30 locations with over 4000 participants.
 
 Long Bio
 ---
