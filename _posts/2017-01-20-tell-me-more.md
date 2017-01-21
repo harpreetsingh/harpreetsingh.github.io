@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tip to conduct great customer interviews - Be an intern"
+title: Tell me more tip for great customer interviews
 date: 2017-01-16
 categories: product-management
 tags: product-management
