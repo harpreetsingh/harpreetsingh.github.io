@@ -35,6 +35,7 @@
 	        		<li><a href="https://www.linkedin.com/in/singhharpreet">LinkedIn</a></li>
 	        		<li><a href="/blog">Blog</a></li>
 	        		<li><a href="/now">Now</a></li>
+				<li><a href="/myart">My Art</a></li>
 	        		<li><a href="/books">Books</a></li>
 	    		</ul>
 		  </nav>
