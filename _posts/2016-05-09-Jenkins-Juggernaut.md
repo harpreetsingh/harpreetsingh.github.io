@@ -1,27 +1,46 @@
 ---
 layout: post
 title: "Jenkins - The Juggernaut of Continuous Delivery."
-date: 2016-5-09
+date: 2016-05-09
 categories: jenkins
 tags: jenkins
+excerpt_separator: <!--more-->
 ---
+
 ![Los Hermanos Jenkins](https://media.licdn.com/mpr/mpr/jc/AAEAAQAAAAAAAAdLAAAAJDU3ZDVjMjI2LTU0ODgtNGZjOS1hMzBhLTM4NDVhNTE2MmJkMw.jpg)
 
-# Exec Summary
-Today, continuous delivery (CD) is en-vogue. As companies adopt CD, they are faced with a choice on the tools to establish their delivery pipelines. Jenkins is often the obvious choice and best of all it is likely used by the engineering division already. This blog looks at various data points to paint a picture of the pervasiveness of Jenkins for CD.
+Today, continuous delivery (CD) is en-vogue. As companies adopt CD,
+they are faced with a choice on the tools to establish their delivery
+pipelines. Jenkins is often the obvious choice and best of all it is
+likely used by the engineering division already. This blog looks at
+various data points to paint a picture of the pervasiveness of Jenkins
+for CD.
 
-# Blog
-When I started at CloudBees a half a dozen years ago, CD wasn’t in the lexicon - in fact I named “Jenkins Pipelines” feature to be “Workflow” - pipelines is much better! Asking customers about their Dev-to-Production software delivery strategy was often met with a quizzical look.
+<!--more-->
 
-The four-minute-mile barrier of software delivery was delivering software maybe once-a-month and that barrier has long been broken. Fabled stories of Amazon, Etsy and FaceBook delivering software multiple times a day have set a new bar that every company aspires to.
+# Blog When I started at CloudBees a half a dozen years ago, CD wasn’t
+in the lexicon - in fact I named “Jenkins Pipelines” feature to be
+“Workflow” - pipelines is much better! Asking customers about their
+Dev-to-Production software delivery strategy was often met with a
+quizzical look.
 
-Google trends shows a continuous (pun intended) rise in the interest of CD. 
+The four-minute-mile barrier of software delivery was delivering
+software maybe once-a-month and that barrier has long been
+broken. Fabled stories of Amazon, Etsy and FaceBook delivering
+software multiple times a day have set a new bar that every company
+aspires to.
+
+Google trends shows a continuous (pun intended) rise in the interest
+of CD.
 ![Trends](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAigAAAAJDY1ODdkOGQ2LTMxNDYtNDIxOS04YTMwLTZhZTE2ZmE1MzhjNQ.png)
 
-Since data science is the hottest trend in the market now, I have used data science to provide for a relative scale.
-![Data science](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAkdAAAAJGY3ZjY1ZTBkLTA4YjgtNDBmYy05MDU4LTc4YTEzMGFlOWEwMQ.png)
+Since data science is the hottest trend in the market now, I have used
+data science to provide for a relative scale.  ![Data
+science](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAkdAAAAJGY3ZjY1ZTBkLTA4YjgtNDBmYy05MDU4LTc4YTEzMGFlOWEwMQ.png)
 
-It has been clear that Jenkins is the de-facto CI leader in the market. The ZeroTurnAround survey shows that Jenkins is most adopted CI server in the market with 70% of the market share.
+It has been clear that Jenkins is the de-facto CI leader in the
+market. The ZeroTurnAround survey shows that Jenkins is most adopted
+CI server in the market with 70% of the market share.
 
 ![ZeroTurnaround](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAg4AAAAJDYwOTUwYjdkLWE5ZmItNDAwZi1hYjFjLWMxNzhkYmM5ZWI1MQ.png)
 
@@ -32,27 +51,40 @@ Active (ones that report active usage) Jenkins installations count is 127k  and 
 
 (source: Jenkins stats site)
 
-My guess is that non-reporting installations must be 2-4 times the active installations. Typically, a Jenkins installation supports anywhere between 5-100 people (dev, qa etc) - conservatively this could mean anywhere from 1M+ people using Jenkins (counting 10 developers per active installation).
+My guess is that non-reporting installations must be 2-4 times the
+active installations. Typically, a Jenkins installation supports
+anywhere between 5-100 people (dev, qa etc) - conservatively this
+could mean anywhere from 1M+ people using Jenkins (counting 10
+developers per active installation).
 
-Let’s look at data from Jenkins Survey in 2013 and 2015 to see some trends.
+Let’s look at data from Jenkins Survey in 2013 and 2015 to see some
+trends.
 
-## Jenkins for Operations 
-In the 2 years between the surveys, the usage of Jenkins for operations activities has grown by 9%.
+## Jenkins for Operations In the 2 years between the surveys, the
+usage of Jenkins for operations activities has grown by 9%.
 
-![Jenkins for Operations](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAdSAAAAJGFjYmIzMDViLTg2YWUtNGMzMy1iY2YyLTI4NTQyMGVmZjg4Yg.png)
+![Jenkins for
+ Operations](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAdSAAAAJGFjYmIzMDViLTg2YWUtNGMzMy1iY2YyLTI4NTQyMGVmZjg4Yg.png)
 
-(source: Jenkins 2013 survey)
-![Jenkins Jobs](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAdNAAAAJDY0NWFiY2U5LWFiZmUtNGQ3Ny04ZmRmLWM2ZDQ0ZGI5ZTM3Yw.png)
+(source: Jenkins 2013 survey) ![Jenkins
+Jobs](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAdNAAAAJDY0NWFiY2U5LWFiZmUtNGQ3Ny04ZmRmLWM2ZDQ0ZGI5ZTM3Yw.png)
 (source: Jenkins 2015 survey)
 
-## Jenkins for Deployment
-The story for deployment is even better with 60% of Jenkins users using the tool for deployment. Note: this number is likely higher as in some cases activities under “release, operations” overlap into the deployment zone. About 70% of those doing deployment are either doing continuous delivery (manual flag to deploy to production) or continuous deployment (auto-deploy).
+## Jenkins for Deployment The story for deployment is even better with
+60% of Jenkins users using the tool for deployment. Note: this number
+is likely higher as in some cases activities under “release,
+operations” overlap into the deployment zone. About 70% of those doing
+deployment are either doing continuous delivery (manual flag to deploy
+to production) or continuous deployment (auto-deploy).
 
 ![Deployment](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAkXAAAAJDMyMDA5MzJkLTRhNWQtNDQwNy1hZmZiLTM1NTQ1NmE4ZGMwNg.png)
 
 (source: Jenkins 2015 survey infographic)
 
-If we take the 127k active installation number and apply it here (70% of 127k)- we have about 88k installations using Jenkins for deployment. Is Jenkins the #1 CD tool in the market? Looks like it!  Can other tools make this claim - doubt it!
+If we take the 127k active installation number and apply it here (70%
+of 127k)- we have about 88k installations using Jenkins for
+deployment. Is Jenkins the #1 CD tool in the market? Looks like it!
+Can other tools make this claim - doubt it!
 
 83% of deployments happen multiple times a week! Talk about breaking the 4 minutes mile barrier! Delivering is no longer stressful!
 

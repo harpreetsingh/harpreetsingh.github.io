@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Tell me more tip for great customer interviews
-date: 2017-01-16
+date: 2017-01-20
 categories: product-management
 tags: product-management
+excerpt_separator: <!--more-->
 ---
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/singh_harpreet/31621987503/in/album-72157675671216504/" title="Untitled"><img src="https://c1.staticflickr.com/1/661/31621987503_3705096e65_z.jpg" width="640" height="480" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/singh_harpreet/29934423871/in/album-72157673355426251/" title="Untitled"><img src="https://c1.staticflickr.com/6/5216/29934423871_68ed1f0210_z.jpg" width="640" height="427" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Finding the right problem, its details, from customer interviews are
 similar to finding an address in India.
@@ -16,6 +16,7 @@ are congested and the roads are not labeled. One uses landmarks to
 reach to the right area, find a shopkeeper to guide you to the next
 smaller neighbourhood landmark - rinse, repeat - recursion :-).
 
+<!--more-->
 Similarly, customer interviews are an open-ended discovery process,
 you hope to find the right problem neighbourhood and then navigate the
 alley to find the right house. The “be an intern” phase gets you in

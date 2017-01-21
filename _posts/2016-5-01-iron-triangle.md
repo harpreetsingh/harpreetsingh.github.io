@@ -4,6 +4,7 @@ title: "Escape the Iron Triangle - ship better software faster and cheaper with 
 date: 2016-5-01
 categories: jenkins
 tags: jenkins
+excerpt_separator: <!--more-->
 ---
 
 ![continuos software delivery](https://media.licdn.com/mpr/mpr/jc/AAEAAQAAAAAAAAhYAAAAJDU5ZjVkYWI1LTUxZjUtNDA4My04M2M4LTBjMmFmNjE4ZDJlYw.png)
@@ -14,6 +15,7 @@ released Jenkins 2.0, is focussed on solving this problem through
 **Pipelines**. This blog gives a quick overview of key benefits of Jenkins
 Pipelines.
 
+<!--more-->
 # Executive Summary
 
 

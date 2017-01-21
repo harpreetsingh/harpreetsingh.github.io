@@ -6,4 +6,29 @@ title: Some of my paintings
 {{ page.title }}
 =====
 
-<object width="400" height="300"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fsingh_harpreet%2Fsets%2F72157675671216504%2Fshow%2F&page_show_back_url=%2Fphotos%2Fsingh_harpreet%2Fsets%2F72157675671216504%2F&set_id=72157675671216504&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=261948265"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=261948265" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fsingh_harpreet%2Fsets%2F72157675671216504%2Fshow%2F&page_show_back_url=%2Fphotos%2Fsingh_harpreet%2Fsets%2F72157675671216504%2F&set_id=72157675671216504&jump_to=" width="400" height="300"></embed></object>
+## Digital 
+
+| Name    | Date       |
+|---------|------------|
+| Bad Ass | 01/17/2017 |
+
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/singh_harpreet/31621987503/in/album-72157675671216504/" title="Untitled"><img src="https://c1.staticflickr.com/1/661/31621987503_3705096e65_z.jpg" width="640" height="480" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+(Inspired by Nikko's Tutorial on artstudyonline)
+
+## Resin on Wood with Fire 
+
+| Name    | Date       |
+|---------|------------|
+| Nebula  | 08/01/2016 |
+
+
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/singh_harpreet/32393805766/in/album-72157675671216504/" title="Untitled"><img src="https://c1.staticflickr.com/1/344/32393805766_6241d6ba65_z.jpg" width="640" height="480" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+## Oils 
+To come ...
+
+<hr>

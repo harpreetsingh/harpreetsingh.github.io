@@ -5,7 +5,7 @@ title: Harpreet Singh in 2 minutes
 {{ page.title }}
 ====
 
-Short Bio ---- Harpreet heads the Product Management Organisation for
+Harpreet heads the Product Management Organisation for
 a hot technology company “CloudBees". He loves building and scaling
 companies - he has been at CloudBees from the ground floor (<10
 people, no revenue) to now. Open source software is second nature to

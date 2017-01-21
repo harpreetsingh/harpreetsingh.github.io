@@ -4,11 +4,14 @@ title: "Tip to conduct great customer interviews - Be an intern"
 date: 2017-01-16
 categories: product-management
 tags: product-management
+excerpt_separator: <!--more--> 
 ---
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/singh_harpreet/32038249205/in/album-72157674857894333/" title="Untitled"><img src="https://c1.staticflickr.com/1/297/32038249205_acb60cc825_z.jpg" width="640" height="427" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Last week, I visited a CloudBees customer with Kohsuke Kawaguchi
 (Jenkins’ founder) to interview them. The goal was to understand their
 key challenges and concerns.
+<!--more-->
 
 Over the years, Kohsuke and myself have done innumerable customer
 interviews together and somewhere along the way we have hit on a

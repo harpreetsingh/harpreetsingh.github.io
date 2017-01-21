@@ -4,6 +4,7 @@ title: "Jenkins 2.0: Makes it easy for organisations to deliver software continu
 date: 2016-4-28
 categories: jenkins
 tags: jenkins
+excerpt_separator: <!--more-->
 ---
 
 I have spent the last 3 years of my life helping Jenkins claim its
@@ -13,6 +14,7 @@ pipelines through Jenkins Pipelines and has culminated in the first
 major release of Jenkins in 10 years. I am incredibly privileged to
 have helped Kohsuke Kawaguchi in this journey. The following is a blog
 post that I put out on cloudbees.com for the release.
+<!--more-->
 
 Jenkins 2.0 is generally available now. It is the first major release
 of Jenkins in 10 years after about 700 weekly releases. It is indeed a

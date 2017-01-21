@@ -2,31 +2,12 @@
 layout: default
 title: Harpreet Singh
 ---
-<p class="intro">
-  Harpreet heads the Product Management Organisation for a hot
-  technology company “CloudBees". He loves building and scaling
-  companies - he has been at CloudBees from the ground floor
-  (<10 people, no revenue) to now. Open source software is second
-  nature to him, having been involved in OSS from 2003 (GlassFish and
-  now Jenkins). His passion is building world class products and
-  monetising them. He loves working with super smart people abundantly
-  found at CloudBees :-).
-       </p>
 
-<p class="intro">
- He is open to advising technology startups with product strategy,
- product management, product marketing and branding.
-</p>
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
 
-<p class="intro">
+<h1> {{ post.title }} </h1>
+{{ post.date }} | {{ post.categories }}
+{{ content }}
 
- He blogs few times a month on topics such as Jenkins, Product
- Management, Art, Productivity and Meditation. 
-
-</p>
-
-<p class="intro">
-  Reach out to him at harpreet@harpreet.io
-  </p>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/singh_harpreet/31621987503/in/album-72157675671216504/" title="Untitled"><img src="https://c1.staticflickr.com/1/661/31621987503_3705096e65_z.jpg" width="640" height="480" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a href="/blog">more blogs</a>
