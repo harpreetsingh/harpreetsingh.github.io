@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building your own prisma with deeplearning
+title: Paint like a master with deep learning
 date: 2017-02-02
 categories: deeplearning
 tags: deeplearning
