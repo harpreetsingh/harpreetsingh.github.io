@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Udacity Deeplearning course setup for Anaconda
-date: 2017-01-28
+title: Deep learning fundamentals: Liner, Multiple and Logistic regressions
+date: 2017-02-12
 categories: deeplearning
 tags: deeplearning
 excerpt_separator: <!--more-->
