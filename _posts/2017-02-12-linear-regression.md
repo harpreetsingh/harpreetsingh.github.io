@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deep learning fundamentals: Liner, Multiple and Logistic regressions
+title: Deep learning fundamentals - Linear, Multiple and Logistic regressions
 date: 2017-02-12
 categories: deeplearning
 tags: deeplearning
