@@ -3,7 +3,7 @@ layout: default
 ---
 # *Slow Burn: Burn Fat Faster By Exercising Slower by Stu Mittleman*
 
-[![](https://images-na.ssl-images-amazon.com/images/I/41q8%2BqIWqUL._AC_SX60_CR,0,0,60,60_.jpg](https://www.amazon.com/Slow-Burn-Faster-Exercising-Slower-ebook/dp/B005O078TM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1487477595&sr=8-1)
+[![] (https://images-na.ssl-images-amazon.com/images/I/41q8%2BqIWqUL._AC_SX60_CR,0,0,60,60_.jpg](https://www.amazon.com/Slow-Burn-Faster-Exercising-Slower-ebook/dp/B005O078TM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1487477595&sr=8-1)
 
 * [The New Model of Networking)(#networking)
 {:toc}
@@ -46,7 +46,7 @@ I discovered Stu Mittleman when I attended Tony Robbins' _Unleash The Power With
 * Nervous—how dependably your brain and nervous system communicate with the rest of your body
 * Musculoskeletal—how reasonably your muscles and bones function, allowing you to move and distribute energy as your body supports itself against gravity and participates in the physical world
 
-### Recommendations 
+### Recommendations
 * Eat an alkaline diet: An alkaline diet is primarily vegetarian.
 * Eat by your blood type: I followed this up by reading the "Eat for your blood type" - a topic by itself and well worth paying attention to.
 * Eliminate sugar: sugar makes your body acidic and an acidic body leads to illnesses
