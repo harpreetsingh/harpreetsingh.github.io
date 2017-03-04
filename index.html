@@ -7,7 +7,7 @@ title: Harpreet Singh
   {% assign content = post.content %}
 
 <h1> {{ post.title }} </h1>
-{{ post.date }} | {{ post.categories }}
+{{ post.date | date_to_string }} | {{ post.categories }}
 {{ content }}
 
 <a href="/blog">more blogs</a>
