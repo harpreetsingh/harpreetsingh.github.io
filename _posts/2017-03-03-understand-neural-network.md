@@ -3,9 +3,10 @@ layout: post
 title: Understanding neural networks: a dog lovers primer
 date: 2017-03-03
 categories: deep-learning
-tags: deep-learning, machine-learning, neural-networks
+tags: deep-learning machine-learning neural-networks
 excerpt_separator: <!--more-->
 ---
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/singh_harpreet/20774526803/in/album-72157656253958874/" title="Untitled"><img src="https://c1.staticflickr.com/1/683/20774526803_3215449907.jpg" width="500" height="375" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
