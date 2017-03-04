@@ -3,7 +3,7 @@ layout: post
 title: Understanding neural networks: a dog lovers primer
 date: 2017-03-03
 categories: deep-learning
-tags: deep-learning machine-learning neural-networks
+tags: deep-learning 
 excerpt_separator: <!--more-->
 ---
 
@@ -28,8 +28,7 @@ A neural network is a decision engine. Its job is to look at in-coming data and 
 
 To get something useful from a neural network - you need to train it. To do this you take the existing set and split into the data you train with and the data you test against.
 
-## Training the data:
-
+# Training the data
 
 In the data here, I have two regression lines that neatly separates the images. In neural network parlance, each quadrant is a decision node that outputs yes/no if it identifies the data right. Each node is called a perceptron or neuron. Each one looks at input data and decides how to categorise that data. In the example above, the input either passes a threshold for dogs, cats, birds and toasters and each neuron answers a yes or no.
 
