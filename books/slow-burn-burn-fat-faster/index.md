@@ -2,9 +2,8 @@
 layout: default
 ---
 # *Slow Burn: Burn Fat Faster By Exercising Slower by Stu Mittleman*
-
-[![](https://images-na.ssl-images-amazon.com/images/I/41q8%2BqIWqUL._AC_SX60_CR,0,0,60,60_.jpg)](https://www.amazon.com/Slow-Burn-Faster-Exercising-Slower-ebook/dp/B005O078TM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1487477595&sr=8-1)
-
+<a href="https://www.amazon.com/Slow-Burn-Faster-Exercising-Slower-ebook/dp/B005O078TM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1487477595&sr=8-1">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41q8%2BqIWqUL.jpg" height="220" width="160"></a>
 * [The New Model of Networking)(#networking)
 {:toc}
 
