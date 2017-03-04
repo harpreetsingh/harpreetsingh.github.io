@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Understanding neural networks: a dog lovers primer
+title: Understanding neural networks - a dog lovers primer
 date: 2017-03-03
 categories: deep-learning
-tags: deep-learning 
+tags: deep-learning
 excerpt_separator: <!--more-->
 ---
 
