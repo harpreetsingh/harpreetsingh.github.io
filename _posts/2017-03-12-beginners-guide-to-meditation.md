@@ -7,7 +7,7 @@ tags: meditation
 excerpt_separator: <!--more-->
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/singh_harpreet/29904310612/in/album-72157673355426251/" title="Untitled"><img src="https://c1.staticflickr.com/6/5107/29904310612_a67f1b0496.jpg" width="500" height="333" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/singh_harpreet/29904310612/in/album-72157673355426251/" title="Untitled"><img src="https://c1.staticflickr.com/6/5107/29904310612_a67f1b0496_c.jpg" width="800" height="534" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Recently, a couple of my closest friends have been recommended to start meditation from their physician as a means for improving their general well-being. My friends asked me a few questions about it and the line of questioning leads me to believe that it is highly likely that they are going to struggle. A few other friends have also asked me on how best to get started so I figured I will use this opportunity to write about beginning meditation.
 <!--more-->
@@ -45,7 +45,7 @@ Some immediate benefits are:
 * **Great take off to the day:** If I start my day with a 10-15 minute meditation, I find that I am really calm, composed and ready to deal with anything that the day throws my way. This calmness carries through the day.
 * **Great end to the day:** If I end the day with a short practice (usually ends up being a long one), I find that all the stress of the day dissipates. Not to mention the benefit of just drifting off to sleep 😃
 * **Stress dissipator:** The biggest benefit is really the ability to handle stress. If I find myself getting angry or detect a huge build up of stress, I realise that I have fallen off the meditation wagon for a few days. Two sessions (morning and evening) and I am back. For me,  meditation is a couple of orders in magnitude better at busting stress than exercise.
-* ** Building Visualisation/Imagination:** My meditation practice ends up with visualisation exercises. There is enough literature out there on the benefits of visualisation. Visualizing what I want to do and where I want to go is tremendous fun.
+* **Building Visualisation/Imagination:** My meditation practice ends up with visualisation exercises. There is enough literature out there on the benefits of visualisation. Visualizing what I want to do and where I want to go is tremendous fun.
 
 Longer term benefits include:
 
