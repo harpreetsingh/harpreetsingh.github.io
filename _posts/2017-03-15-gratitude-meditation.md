@@ -9,6 +9,8 @@ excerpt_separator: <!--more-->
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/bionicteaching/8129610558/in/photolist-doonZh-6x8zCP-gXcXf-6Eqm56-3X2HNS-6x8zCp-kVns8H-9yCMcS-a92NZG-qHwYT7-4RQpGE-4RLgCT-9fpA7P-RFhRsj-fUPfd7-Rb5g4a-4u4fM-auaKzz-8qbLGo-7fQ4E5-9F31ko-v8TWiZ-RBhxwr-5sHMk-dCaFc-p6vGVH-gNaxpT-9j5DWz-8X7V5R-6KKfcc-5NEcQu-cYrQiw-pBK2o1-cEwRMu-ebQpL-7uPGd2-eYeMeE-qZ44cZ-41HNj6-6fa7TP-apASDU-5f6kqX-6x8zCz-fFvBhP-9WQugR-6x8zCa-9snRzZ-nDwe9-7SREWN-GNjzR" title="tricycle"><img src="https://c1.staticflickr.com/9/8186/8129610558_041efbbc98_c.jpg" width="800" height="534" alt="tricycle"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<br>
+
 (Photo credit:  <a href="https://www.flickr.com/photos/bionicteaching/8129610558/in/photolist-doonZh-6x8zCP-gXcXf-6Eqm56-3X2HNS-6x8zCp-kVns8H-9yCMcS-a92NZG-qHwYT7-4RQpGE-4RLgCT-9fpA7P-RFhRsj-fUPfd7-Rb5g4a-4u4fM-auaKzz-8qbLGo-7fQ4E5-9F31ko-v8TWiZ-RBhxwr-5sHMk-dCaFc-p6vGVH-gNaxpT-9j5DWz-8X7V5R-6KKfcc-5NEcQu-cYrQiw-pBK2o1-cEwRMu-ebQpL-7uPGd2-eYeMeE-qZ44cZ-41HNj6-6fa7TP-apASDU-5f6kqX-6x8zCz-fFvBhP-9WQugR-6x8zCa-9snRzZ-nDwe9-7SREWN-GNjzR"> Tom Woodward </a>
 
 In the last blog, I gave a very quick lay of the land of meditation. In this blog, I will get you started quickly. So quickly and so easily that you will wonder why you haven’t done meditation in the past!
