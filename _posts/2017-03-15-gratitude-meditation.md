@@ -61,4 +61,4 @@ Finally, I highly recommend using the guided meditation in the references sectio
 I hope the above meditation starts you successfully on the path to meditation.
 
 # References
-To start with, I recommend downloading <a href="https://digitalstore.shivyogglobal.com/products/nachiketa-agni-dhyan" the meditation from Avadhoot Baba Shivanand</a> and listening to it rather than go through the above yourself. He guides you in Hindi and English but often skips to Hindi only but you should be able to follow along for most parts.
+To start with, I recommend downloading <a href="https://digitalstore.shivyogglobal.com/products/nachiketa-agni-dhyan"> the meditation from Avadhoot Baba Shivanand</a> and listening to it rather than go through the above yourself. He guides you in Hindi and English but often skips to Hindi only but you should be able to follow along for most parts.
