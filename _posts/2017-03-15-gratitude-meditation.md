@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Gratitude meditation: the easiest way to begin meditation
-date: 2017-03-12
+title: Gratitude meditation - the easiest way to begin meditation
+date: 2017-03-15
 categories: meditation
 tags: meditation
 excerpt_separator: <!--more-->
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/singh_harpreet/29904310612/in/album-72157673355426251/" title="Untitled"><img src="https://c1.staticflickr.com/6/5107/29904310612_a67f1b0496_c.jpg" width="800" height="534" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/bionicteaching/8129610558/in/photolist-doonZh-6x8zCP-gXcXf-6Eqm56-3X2HNS-6x8zCp-kVns8H-9yCMcS-a92NZG-qHwYT7-4RQpGE-4RLgCT-9fpA7P-RFhRsj-fUPfd7-Rb5g4a-4u4fM-auaKzz-8qbLGo-7fQ4E5-9F31ko-v8TWiZ-RBhxwr-5sHMk-dCaFc-p6vGVH-gNaxpT-9j5DWz-8X7V5R-6KKfcc-5NEcQu-cYrQiw-pBK2o1-cEwRMu-ebQpL-7uPGd2-eYeMeE-qZ44cZ-41HNj6-6fa7TP-apASDU-5f6kqX-6x8zCz-fFvBhP-9WQugR-6x8zCa-9snRzZ-nDwe9-7SREWN-GNjzR" title="tricycle"><img src="https://c1.staticflickr.com/9/8186/8129610558_041efbbc98_c.jpg" width="800" height="534" alt="tricycle"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+(Photo credit:  <a href="https://www.flickr.com/photos/bionicteaching/8129610558/in/photolist-doonZh-6x8zCP-gXcXf-6Eqm56-3X2HNS-6x8zCp-kVns8H-9yCMcS-a92NZG-qHwYT7-4RQpGE-4RLgCT-9fpA7P-RFhRsj-fUPfd7-Rb5g4a-4u4fM-auaKzz-8qbLGo-7fQ4E5-9F31ko-v8TWiZ-RBhxwr-5sHMk-dCaFc-p6vGVH-gNaxpT-9j5DWz-8X7V5R-6KKfcc-5NEcQu-cYrQiw-pBK2o1-cEwRMu-ebQpL-7uPGd2-eYeMeE-qZ44cZ-41HNj6-6fa7TP-apASDU-5f6kqX-6x8zCz-fFvBhP-9WQugR-6x8zCa-9snRzZ-nDwe9-7SREWN-GNjzR"> Tom Woodward </a>
 
 In the last blog, I gave a very quick lay of the land of meditation. In this blog, I will get you started quickly. So quickly and so easily that you will wonder why you haven’t done meditation in the past!
 <!--more-->
@@ -57,4 +58,4 @@ Finally, I highly recommend using the guided meditation in the references sectio
 I hope the above meditation starts you successfully on the path to meditation.
 
 # References
-To start with, I recommend downloading the meditation from Avadhoot Baba Shivanand and listening to it rather than go through the above yourself. He guides you in Hindi and English but often skips to Hindi only but you should be able to follow along for most parts.
+To start with, I recommend downloading <a href="https://digitalstore.shivyogglobal.com/products/nachiketa-agni-dhyan" the meditation from Avadhoot Baba Shivanand</a> and listening to it rather than go through the above yourself. He guides you in Hindi and English but often skips to Hindi only but you should be able to follow along for most parts.
