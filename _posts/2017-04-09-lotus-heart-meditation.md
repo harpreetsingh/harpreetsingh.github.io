@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 
 Photo Credit: [Osanpo](https://www.flickr.com/photos/mfp/)
 
-Calm your nerves, fix insomnia and jet-lag with the Lotus Heart Meditation technique.
+The Lotus heart meditation calms your nerves, addresses insomnia and helps adjust to jet-lag. Let's how you can bring this technique in to your life.
 <!--more-->
 
 I am on a mission to prove to people that meditation is easier than they think it is. Most individuals have an unrealistic definition of meditation and set themselves up for failure. As I have mentioned in earlier blogs, meditation is about following a train of thought and bringing yourself back to that train when you drift away.
