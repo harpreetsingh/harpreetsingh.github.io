@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Lotus Meditation - calm your nerves after a stressful day
+title: Lotus Heart Meditation - calm your nerves after a stressful day
 date: 2017-04-09
 categories: meditation
 tags: meditation
 excerpt_separator: <!--more-->
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/singh_harpreet/29904310612/in/album-72157673355426251/" title="Untitled"><img src="https://c1.staticflickr.com/6/5107/29904310612_a67f1b0496_c.jpg" width="800" height="534" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mfp/21296076/in/photolist-7DRTw-f2Wyh6-oaouFU-9YKxxX-pJwbRu-NjN1W-612vN-pLFNRw-92kzKr-2T9zJ-bMAggK-5rRNw8-6L9knb-27aq3z-bo2CTT-3KDcMa-PzPoe-ikqBd2-nPMqKa-2bfnTb-o941x6-2J9sZm-6L9jUQ-9eig6-27aNDi-nPNaoA-NPECo-nPMzMu-9xRJA-aZ4C6r-2baUVk-9rTG-ikrADL-nmCato-c4D6nw-2b4EGz-6HXTVT-awSu9i-83VeVw-8bJAbc-4UKuof-83S7KM-hyJKd-f3qLSL-272Kn2-2D9xt7-2DVrdx-86Zskf-nPMrkY-9d2upg" title="Lotus"><img src="https://c1.staticflickr.com/1/17/21296076_b713ca1337_z.jpg" width="640" height="431" alt="Lotus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Photo Credit: [Osanpo](https://www.flickr.com/photos/mfp/)
 
 Calm your nerves, fix insomnia and jet-lag with the Lotus Heart Meditation technique.
 <!--more-->
