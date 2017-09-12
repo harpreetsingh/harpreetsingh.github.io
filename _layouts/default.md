@@ -27,7 +27,7 @@
 		      </td>
 		    </tr>
 		  </table>
-		  
+
 		  <nav>
 	    	    <ul>
 	        		<li><a href="/">Home</a></li>
@@ -35,15 +35,15 @@
 	        		<li><a href="https://www.linkedin.com/in/singhharpreet">LinkedIn</a></li>
 	        		<li><a href="/blog">Blog</a></li>
 	        		<li><a href="/now">Now</a></li>
-				<li><a href="/myart">My Art</a></li>
+				<li><a href="https://www.facebook.com/pg/harpreet.fireart/photos/?ref=page_internal">My Art</a></li>
 	        		<li><a href="/books">Books</a></li>
 	    		</ul>
 		  </nav>
 
 		  <div class="container">
-		    
+
 			{{ content }}
-			
+
 			</div><!-- /.container -->
 			<footer>
 <!--	    		<ul>
