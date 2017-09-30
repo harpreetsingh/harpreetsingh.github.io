@@ -2,7 +2,7 @@
 layout: post
 title: React Native Component Styling
 date: 2017-09-30
-categories: programming
+categories: programming, ios, react-native
 tags: React, React-Native, ios, iphone  
 excerpt_separator: <!--more-->
 ---
