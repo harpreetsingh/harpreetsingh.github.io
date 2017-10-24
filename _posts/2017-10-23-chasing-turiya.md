@@ -39,7 +39,7 @@ The experience is on so many different levels and hard to explain - there is no 
 # Timelessness
 First, I did lose track of time. Everyday, we went into meditation for what seemed like a 15-20 minute session and then when we opened our eyes - it was about 2-3 hours into the meditation. The longest session was about 3.5 hours. Note: I have a back that gives me problems after about 15 minutes in one posture and here we were on one of the more uncomfortable chairs that you see in conference rooms and I was rocking it.
 
-I have been in Buddhist practices, where they take your watch away and make you close your eyes for practice to experience time and unfortunately you are aware of every excruciating minute of that practice. But not Tuirya - you walk out of a Turiya session and go "what the hell! I could've stayed there for an hour more - lets get back in"!
+I have been in Buddhist practices, where they take your watch away and make you close your eyes for practice to experience time and unfortunately you are aware of every excruciating minute of that practice. But not Turiya - you walk out of a Turiya session and go "what the hell! I could've stayed there for an hour more - lets get back in"!
 
 # Physical
 As I mentioned, I could sit through long sessions without *much* discomfort. The desire to move wasn't there at all. The breathing is very fine and very "deep". Deep breathing has real benefits on your health and I guess I accrued some :-). Utter and complete relaxation is perhaps a better description of the physical state. This relaxation is a better quality than one where you get up after long sleep. I wasn't drowsy; I was awake; Here and Now.
@@ -58,12 +58,12 @@ That said, absence of thought is more often experienced than presence and analys
 # Experiencing universal consciousness
 The experience of universal consciousness was truly other wordly. I don't quite have words to describe it. The gates to universal consciousness start from body consciousness and the meditation session started by making me very aware of my body consciousness (hard to describe) and at some point a metaphorical gate opened and I entered a deeper state and I realised that I was experiencing universal consciousness. How do you know it is universal consciousness - you just know - deep in your bones. Weird!
 
-The closest description is when in the move "The Matrix", Neo realises that he is the One - what he sees that isn't the Agents but the matrix running underneath and him and the agents are the same. That description gets you close enough.
+The closest description is when in the move "The Matrix", Neo realises that he is the One. He realises that the matrix is running underneath him and the agents and they are the same. That description gets you close enough.
 
 It felt like I was plugged into a battery and getting my charge in. Typically, I don't realise that I am connected but now I was completely aware that I am being charged and could "see" the source. I use "see" as "see it in the third eye".
 
-Finally, the "I" disappeared even if it was for a short time and I became part of the universal expression where myself and the chair and then neighbour and her chair were all one. Just one part of this fabric called the universe existing in this time and place which had no meaning in this state. This state is called "Tat tvam asi" or "Thou are that" or "being one with the force but better".
+Finally, the "I" disappeared even if it was for a short time and I became part of the universal expression where me and the chair and then neighbour and her chair were all one. Just one part of this fabric called the universe existing together *Here and Now*. This state is called "Tat tvam asi" or "Thou are that" or "being one with the force but better ;-)".
 
-What I learnt was that the entire experience was perhaps less than 5% of what you aspire to. More practice ahead :-).
+Seems like that the entire experience was perhaps less than 5% of what you aspire to.
 
-I am hooked.
+More practice ahead :-).
