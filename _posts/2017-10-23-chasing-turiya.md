@@ -13,7 +13,7 @@ I believe the audience for this blog in the world is a grand total of less than 
 <!--more -->
 Twenty years ago - pre-internet era, I read a book called "Living with Himalayan Masters" by Swami Rama, a Guru of "Advaita Sri Vidya". This book had fantastical stories of Yogic masters performing incredible feats. I bought it hook-line and sinker, perhaps, because I had just lost my younger sister and I was looking for a grander explanation to life than "it just the way it is". Never found a teacher, because Swami Rama had passed away in 1996.
 
-Nevertheless, this was the first time I came across "Turiya - the 4th" and have been on its scent ever since.
+Nevertheless, this was the first time I came across "Turiya - the 4th" and have been on its hunt ever since.
 
 Advaita (non-duality, formless) philosophy posits the universe as one single consciousness or universal consciousness and each human as a manifestation of the universal consciousness. Though, as with anything hinduism, oxymorons abound just as "hai bhi aur nahin bhi" or "it exists and doesn't exist at the same time";"Advaita" is achieved through "Dvaita" or duality or in this case the "Goddess and the God" - take your pick - literally - take a pick of what you resonate towards (no God - consciousness, God, Godess). The goal is to experience universal consciousness. The easiest way to think about consciousness in the Advaita world is it is the "force" that is behind everything (Star Wars anyone!). Turiya is the best way to experience it and meditation takes you there.
 
