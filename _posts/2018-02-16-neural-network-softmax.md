@@ -22,9 +22,7 @@ that the sum of these probabilities is equal to 1. Thus, we can classify a pictu
 to each other. 
 
 The formula is 
-$$
-P(duck) = \frac{e^score_duck}{e^score_duck + e^score_dog + e^score_cat}
-$$
+$$P\(duck\) = \frac{e^(score_duck)}{\e^(score_duck) + e^(score_dog) + e^(score_cat)}$$
 
 Our end result will look something like:
 P(duck) = 0.70
@@ -32,16 +30,15 @@ P(dog) = 0.26
 P(cat) = 0.03
 
 Thus, we have taken a matrix of scores and converted them into probability distributions
-$$
-\begin{matrix}
-2 & 1 & -1
+$$\begin{matrix}
+2 & 1 & -1 \\
 \end{matrix}
 
 softmax
 \begin{matrix}
 0.7 \\
 0.26 \\
-0.03 
+0.03 \\
 \end{matrix}
 $$
 
