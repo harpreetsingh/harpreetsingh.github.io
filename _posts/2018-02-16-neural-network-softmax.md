@@ -25,7 +25,7 @@ The formula is
 <p>
 
 $$
-P(duck) = \frac{e^d}{\e^d + e^o + e^c}$$
+P(duck) = \frac{e^d}{e^d + e^o + e^c}$$
 <p>
 where d is duck, o is dOg and c is cat in the formula.
 
