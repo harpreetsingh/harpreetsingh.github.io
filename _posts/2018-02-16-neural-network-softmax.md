@@ -3,8 +3,8 @@ layout: post
 title: Intuitive understanding of a softmax function in a neural network 
 
 date: 2018-02-16
-categories: neural-network, deep-learning
-tags: deeplearning, neuralnetwor, ios, iphone  
+categories: neuralnetwork, deeplearning
+tags: deeplearning, neuralnetwork 
 excerpt_separator: <!--more-->
 ---
 
