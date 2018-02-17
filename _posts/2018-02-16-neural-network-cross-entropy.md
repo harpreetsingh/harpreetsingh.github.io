@@ -38,17 +38,18 @@ $$
 Since multiplication of various events with numbers less that 1 could be very small, we typically use the logarithm 
 function to add them up and that is the formula for Cross entropy
 
-$$
-Cross entropy = -log(0.7) - log(0.8) - log(0.9) 
-Cross entropy = -(-0.35566) - (-0.2231) - (-0.1053)
-Cross entropy = 0.685
-$$
+$$Cross entropy = -log(0.7) - log(0.8) - log(0.9)$$
+ 
+$$Cross entropy = -(-0.35566) - (-0.2231) - (-0.1053)$$
+
+$$Cross entropy = 0.685$$
 
 This low cross entropy number indicates that the likelihood that these events (of a duck, dog, cat ) showing up behind 
 the doors is high.
 
 To implement this in tensorflow, you'd do the following:
-```
+
+```python
 softmax_data = [0.7, 0.2, 0.1]
 one_hot_data = [1.0, 0.0, 0.0]
 
