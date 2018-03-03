@@ -2,9 +2,9 @@
 layout: post
 title: Intuitive understanding of a softmax function in a neural network 
 
-date: 2018-02-16
-categories: neuralnetwork, deeplearning
-tags: deeplearning, neuralnetwork 
+date: 2018-03-03
+categories: productmanagement
+tags: 
 excerpt_separator: <!--more-->
 ---
 
