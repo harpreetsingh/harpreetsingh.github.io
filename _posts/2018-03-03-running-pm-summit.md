@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intuitive understanding of a softmax function in a neural network 
+title: Running a successful Product Portfolio planning summit
 
 date: 2018-03-03
 categories: productmanagement
