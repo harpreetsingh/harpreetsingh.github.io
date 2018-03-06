@@ -15,7 +15,7 @@ around a human head (and a bit creeped out when it started suggesting
 the name of the human next to the box). I always wondered how they did
 it and filed it under machine-learning magic-ery. Now, I know how they
 do it so let me peel back the curtain.
-<!--more>
+<!--more-->
 
 <p> There are two distinct problem domains in the feature
 
