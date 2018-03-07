@@ -27,8 +27,8 @@ we will ignore this problem in the blog.
 
 <p> The "Find the human" problem
 is solved through something called "Haar Cascade Classifiers" -
-detailed article for brilliant humans [here](https://docs.opencv.org/3.3.0/d7/d8b/tutorial_py_face_detection.html)
- and the rest follow along
+detailed article for brilliant humans 
+[link here](https://docs.opencv.org/3.3.0/d7/d8b/tutorial_py_face_detection.html) and the rest follow along
 in this blog :-).</p>
 
 The underlying building block is a Classifier but lets drop the
