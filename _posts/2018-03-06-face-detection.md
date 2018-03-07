@@ -17,7 +17,7 @@ it and filed it under machine-learning magic-ery. Now, I know how they
 do it so let me peel back the curtain.
 <!--more-->
 
-<p> There are two distinct problem domains in the feature
+<p> There are two distinct problem domains in the feature</p>
 
 * Find the human - we will use this blog lifting the curtain behind
 the magic.  
