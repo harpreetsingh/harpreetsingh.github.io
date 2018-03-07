@@ -19,10 +19,10 @@ do it so let me peel back the curtain.
 
 <p> There are two distinct problem domains in the feature
 
-*   Find the human - we will use this blog lifting the curtain behind
+* Find the human - we will use this blog lifting the curtain behind
 the magic.  
 
-*   Label the human - this is supervised machine learning and
+* Label the human - this is supervised machine learning and
 we will ignore this problem in the blog.  
 
 <p> The "Find the human" problem
